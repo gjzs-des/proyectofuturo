@@ -6,7 +6,7 @@ package ud3.ed;
  */
 public class UD3ED {
     public static void main (String [] args) {
-        String Estudiante = "Gabriela Zavala";
+        String Estudiante = "Gabriela Zavala Sandoval";
         int valor1 = 5;
         int valor2 = 20;
         
